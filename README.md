@@ -1,7 +1,5 @@
 
-# git tutorial
+# Hello-World
 
- - feature-A
- - fix-B
- - feature-C
+Hello World in python and R
 
